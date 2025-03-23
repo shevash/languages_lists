@@ -1,0 +1,2 @@
+0.0.0
+https://github.com/shevash/languages_lists/raw/refs/heads/master/popup_english.exe
