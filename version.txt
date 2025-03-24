@@ -1,2 +1,2 @@
-0.0.1
+0.0.2
 https://github.com/shevash/languages_lists/raw/refs/heads/master/popup_english.exe
